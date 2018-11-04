@@ -1,5 +1,5 @@
-%Returns the outline of a picture based 
-%on 4-neigbours.
+% Returns the outline of a picture( 0-black 1-white)
+% based on 4-neigbours.
 
 function [retval] = outline_per_4(input)
 
