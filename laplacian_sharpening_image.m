@@ -1,4 +1,5 @@
-%%	LAST LAB Digital Image Processing.
+%%	 Digital Image Processing.
+
 pkg load image 
 
 A = imread('moon.tiff');
